@@ -1,0 +1,22 @@
+
+/*minimal layar ukuran sedang */
+@media screen and (min-width: 400px) {
+	h1 {
+		color: blue;
+		font-size: 20px;
+	}
+	body {
+		background-color: black;
+	}
+}
+
+/* minimal layar ukuran besar */
+@media  screen and (min-width: 700px) {
+	h1 {
+		text-align: center;
+		font-family: cursive;
+	}
+	body {
+		background-color: #ddd
+	}	
+}
